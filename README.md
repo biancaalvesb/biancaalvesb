@@ -12,6 +12,7 @@
 ### Boas vindas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 Prazer, sou a Bianca, desenvolvedora de Software e graduanda em Sistemas de Informação. 
+
 Tenho 24 anos e moro em São Paulo, Brasil. 
 
 Apaixonada por tecnologia e por dados :game_die:
