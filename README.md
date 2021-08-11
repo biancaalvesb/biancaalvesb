@@ -4,8 +4,8 @@
 
 #### Eu sou desenvolvedora de sistemas, apaixonada pelo mundo dos dados e com uma grande vontade de transformar o mundo usando tecnologia!
 
-- 💻 Eu sou desenvolvedora de software
-- 💻 Trabalho com algumas linguagens de programação como Java, Kotlin, Python
+- 💻 Eu sou desenvolvedora de software e trabalho com algumas linguagens de programação como Java, Kotlin e Python
+- :books: Estou cursando o sétimo semestre de Sistemas de Informação
 - 📈 Estou em constante aprendizado para entrar no mundo dos dados
 - 📊 Quero que meu trabalho seja capaz de impactar de forma positiva todos ao meu redor
 
