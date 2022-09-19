@@ -1,13 +1,13 @@
 [<img align="center"  width="700px" src="https://github.com/biancaalvesb/biancaalvesb/blob/main/capa3.png" />](https://github.com/biancaalvesb/biancaalvesb/blob/main/capa3.png)
 
-### Bianca Alves Barroso - [Desenvolvedora de Software] 👋
+### Bianca Alves Barroso - [Engenheira de Dados] 👋
 
-#### Eu sou desenvolvedora de sistemas, apaixonada pelo mundo dos dados e com uma grande vontade de transformar o mundo usando tecnologia!
+#### Eu sou engenheira de dados, apaixonada pelo mundo dos dados e com uma grande vontade de transformar o mundo usando tecnologia!
 
-- 💻 Eu sou desenvolvedora de software e trabalho com algumas linguagens de programação como Java, Kotlin e Python
-- :books: Estou cursando o sétimo semestre de Sistemas de Informação
-- 📈 Estou em constante aprendizado para entrar no mundo dos dados
-- 📊 Quero que meu trabalho seja capaz de impactar de forma positiva todos ao meu redor
+- 💻 Trabalho em um time dados no Consignado do Itau, onde fazemos ingestão de dados, criação e manutenção de ETLs e disseminamos o uso de ferramentas de dados, como AWS Athena e AWS QuickSight para consulta e construção de dashboards. Assim, criando uma comunidade orientada a dados!
+- 📖: Graduada em Sistemas de Informação.
+- 📈 Estou em constante aprendizado, no momento estudando Machine Learning.
+- 📊 Quero que meu trabalho seja capaz de impactar de forma positiva todos ao meu redor.
 
 ### Se conecte comigo:
 
@@ -33,6 +33,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="AWS" width="26px" src="https://pbs.twimg.com/profile_images/1377341693964382209/XLGAtguT_400x400.jpg" />
+
+
 
 <br />
 <br />
