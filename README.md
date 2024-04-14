@@ -1,8 +1,8 @@
 [<img align="center"  width="700px" src="https://github.com/biancaalvesb/biancaalvesb/blob/main/capa3.png" />](https://github.com/biancaalvesb/biancaalvesb/blob/main/capa3.png)
 
-### Bianca Alves Barroso - [Engenheira de Dados] 👋
+### Bianca Alves Barroso - [Engenheira de Analytics] 👋
 
-#### Eu sou engenheira de dados e analytics, apaixonada pelo mundo dos dados e com uma grande vontade de transformar o mundo usando tecnologia!
+#### Eu sou engenheira de analytics, apaixonada pelo mundo dos dados e com uma grande vontade de transformar o mundo usando tecnologia!
 
 - 💻 Trabalho em um time de analytics no Itau, onde fazemos ingestão de dados, criação e manutenção de ETLs, criação de novas bases especializadas para o negócio e disseminamos o uso de ferramentas de dados, como AWS Athena e AWS QuickSight para consulta e construção de dashboards. Assim, criando uma comunidade orientada a dados!
 - 📖: Graduada em Sistemas de Informação.
