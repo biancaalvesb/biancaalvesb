@@ -2,19 +2,16 @@
 
 ### Bianca Alves Barroso - [Engenheira de Dados] 👋
 
-#### Eu sou engenheira de dados, apaixonada pelo mundo dos dados e com uma grande vontade de transformar o mundo usando tecnologia!
+#### Eu sou engenheira de dados e analytics, apaixonada pelo mundo dos dados e com uma grande vontade de transformar o mundo usando tecnologia!
 
-- 💻 Trabalho em um time dados no Consignado do Itau, onde fazemos ingestão de dados, criação e manutenção de ETLs e disseminamos o uso de ferramentas de dados, como AWS Athena e AWS QuickSight para consulta e construção de dashboards. Assim, criando uma comunidade orientada a dados!
+- 💻 Trabalho em um time de analytics no Itau, onde fazemos ingestão de dados, criação e manutenção de ETLs, criação de novas bases especializadas para o negócio e disseminamos o uso de ferramentas de dados, como AWS Athena e AWS QuickSight para consulta e construção de dashboards. Assim, criando uma comunidade orientada a dados!
 - 📖: Graduada em Sistemas de Informação.
-- 📈 Estou em constante aprendizado, no momento estudando Machine Learning.
+- 📈 Estou em constante aprendizado, no momento fazendo uma Pós graduação na FIAP sobre Inteligência Artificial.
 - 📊 Quero que meu trabalho seja capaz de impactar de forma positiva todos ao meu redor.
 
 ### Se conecte comigo:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/biancaalvesb/)
-
-[<img align="left" alt="bbiancaalves | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/bbiancaalves/)
-
 
 <br />
 
@@ -46,4 +43,3 @@
 <img align="left" alt="Bianca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=biancaalvesb&show_icons=true&hide_border=true" />
 
 [linkedin]: linkedin.com/in/biancaalvesb
-[instagram]: https://instagram.com/bbiancaalves
